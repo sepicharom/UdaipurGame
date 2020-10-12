@@ -21,7 +21,7 @@ body {
 .udaipur-logo {
   display: inline-flex;
   height: 100%;
-  width: 70px;
+  width: 150px;
   margin-bottom: -10px;
   background-image: url("../../assets/udaipur_logo.png");
   background-size: cover;
@@ -33,7 +33,7 @@ body {
   height: 100%;
   display: inline-flex;
   margin: auto;
-  font-size: 5vh;
+  font-size: 4vh;
   padding: 12px;
   color: #414141;
 }
